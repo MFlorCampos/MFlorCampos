@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Flor Campos</h1>
-<h3 align="center">Passionate software developer with 2+ years of experience in software development. Skilled in React Js, Node Js and Typescript. Argentina currently living in Berlin ❤️</h3>
+<h3 align="center">Passionate software developer with 2+ years of experience in software development. Skilled in React Js, Node Js and Typescript. Argentinian living in Berlin ❤️</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mflorcampos" alt="mflorcampos" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2813d103b7e7b2b092a125b76fe6fd29/tumblr_o5mvxw5Qzw1rpn9eno1_540.gif">
