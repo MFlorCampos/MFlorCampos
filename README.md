@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Flor Campos</h1>
-<h3 align="center">A dedicated software developer with over 3 years of hands-on experience in the world of software development. My expertise lies in React Js, Node Js, and Typescript. Originally from Argentina and now living in Berlin ❤️</h3>
+<h1 align="center">Hi 👋, I'm Flor</h1>
+<h3 align="center">A dedicated frontend engineer with over 4 years of hands-on experience in the world of software development. My expertise lies in React Js, Node Js, and Typescript. Originally from Argentina and now living in Berlin ❤️</h3>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mflorcampos&" alt="mflorcampos" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mflorcampos" alt="mflorcampos" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mflorcampos&show_icons=true&locale=en&layout=compact" alt="mflorcampos" /</p>
 
 <p>&nbsp;</p>
@@ -9,14 +9,15 @@
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2813d103b7e7b2b092a125b76fe6fd29/tumblr_o5mvxw5Qzw1rpn9eno1_540.gif">
 
 - 🌱 Lifelong Learner:
-I'm constantly expanding my skill set, diving deep into the intricacies of ThreeJS, honing my Typescript mastery, and always exploring new facets of the Javascript universe. Learning is my way of keeping the creative spark alive!
+I focus on constantly improving my skills while contributing to impactful projects. My background in game development led me to the web world—because with JavaScript, anything is possible!
+Lately, my personal interests have led me to dive into ThreeJS, while in my professional life, I continue refining my React.js and TypeScript expertise, as they remain my main tools. I'm always exploring new aspects of the JavaScript world and beyond! 🚀
 
 - 📫 How to reach me **m.florcampos99@gmail.com**
 
-- 📃 Know about my experiences:
-Curious about where I've been? Delve into my experiences by visiting my portfolio at [https://mflorcampos.netlify.app/](https://mflorcampos.netlify.app/).
+- 📃 My experiences:
+Curious about where I've been? Take a look at my web resume [https://mflorcampos.netlify.app/](https://mflorcampos.netlify.app/).
 
-Stay curious, stay passionate, and keep coding! 💻🚀
+Let's connect and >> Stay curious, stay passionate, keep coding! 💻🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
