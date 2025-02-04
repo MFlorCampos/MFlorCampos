@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Flor</h1>
 <h3 align="center">A dedicated Frontend engineer with over 4 years of hands-on experience in the world of software development. My expertise lies in React Js, Node Js, and Typescript. <br/>Originally from Argentina and now living in Berlin ❤️</h3>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mflorcampos" alt="mflorcampos-heroku" /></p>
+<a href="https://git.io/streak-stats"><img  align="left" src="https://github-readme-streak-stats.herokuapp.com?user=MFlorCampos9" alt="GitHub Streak" /></a>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mflorcampos&show_icons=true&locale=en&layout=compact" alt="mflorcampos" /></p>
 
 <p>&nbsp;</p>
