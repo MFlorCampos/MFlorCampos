@@ -20,8 +20,6 @@ Stay curious, share knowledge, and keep coding!
 - 📃 My experiences:
 Curious about where I've been? Take a look at my web resume [https://mflorcampos.netlify.app/](https://mflorcampos.netlify.app/).
 
-Let's connect and >> Stay curious, stay passionate, keep coding! 💻🚀
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mflorenciacampos/?locale=en_ushttps://www.linkedin.com/in/mflorenciacampos/?locale=en_us" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mflorenciacampos/?locale=en_ushttps://www.linkedin.com/in/mflorenciacampos/?locale=en_us" height="30" width="40" /></a>
