@@ -9,8 +9,11 @@
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2813d103b7e7b2b092a125b76fe6fd29/tumblr_o5mvxw5Qzw1rpn9eno1_540.gif">
 
 - 🌱 Lifelong Learner:
-I focus on constantly improving my skills while contributing to impactful projects. My expertise comes from a background in video game development, later shifting to web—because anything is possible with JavaScript! 
-Lately, my personal interests have led me to dive into ThreeJS, while in my professional life, I continue refining my React.js and TypeScript expertise, as they remain my main tools. I'm always exploring new aspects of the JavaScript world and beyond! 🚀
+I'm a Frontend Engineer with extensive experience building scalable, high-performance web applications. I specialize in creating dynamic, user-centric interfaces and ensuring clean, maintainable code.
+Throughout my career, I've worked with Next.js, TypeScript, Redux, AWS, and other technologies to deliver seamless, responsive solutions.
+I'm passionate about exploring emerging technologies. I've worked with Three.js to develop interactive 3D visualizations, blending my development skills with a personal interest in game development. I also enjoy diving into UX design, focusing on creating intuitive and engaging user experiences.
+My goal is to contribute to innovative projects that challenge me, foster creativity, and drive my growth as an engineer.
+Stay curious, share knowledge, and keep coding!
 
 - 📫 How to reach me **m.florcampos99@gmail.com**
 
